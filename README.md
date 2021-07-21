@@ -17,6 +17,7 @@ The pandas dependency is to make use of the DataFrame object because I like how 
 pandas v1.2.3 <br>
 numpy v1.19.2 <br>
 pickle-mixin v1.0.2 <br>
+matplotlib v3.3.4 <br>
 
 ## The gpsBruh Class
 
