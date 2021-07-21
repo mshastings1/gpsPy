@@ -41,5 +41,8 @@ I will add more later but for now see the examples if you are want practical imp
 getUNR_CA.sh - bash script for downloading data from the stn_CA.list file (note CA is for stable Caribbean plate) <br>
 stn_CA.list - file with station names to download. <br>
 exanples/BruhDotMP4.py - implementation of the gpsBruh class to read in a gps time series and make a plot of the data over a certain time frame <br>
-examples/MANA.CA.tenv3 - data file downloaded from UNR MAGNET Program
+examples/MANA.CA.tenv3 - data file downloaded from UNR MAGNET Program <br>
+examples/MANA.eqs - earthquakes list from the MANA station on UNR page <br>
+examples/MANA.pkl - pickle file of the gpsBruh object saved from BruhDotMP4.py <br>
+examples/CowPeople.py - read in the MANA.pkl file to show its the same as the object from BruhDotMP4.py <br>
 
